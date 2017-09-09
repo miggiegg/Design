@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1279 1469" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;">
+    <g transform="matrix(1,0,0,1,-294.919,-1869.24)">
+        <g transform="matrix(6.42152,0,0,6.42152,591.844,1871.32)">
+            <path d="M152.5,0.156C152.5,0.07 152.43,0 152.344,0L0.156,0C0.07,0 0,0.07 0,0.156L0,227.844C0,227.93 0.07,228 0.156,228L152.344,228C152.43,228 152.5,227.93 152.5,227.844L152.5,0.156Z" style="fill:none;stroke:rgb(225,69,61);stroke-width:0.65px;"/>
+        </g>
+        <g transform="matrix(6.42152,0,0,6.42152,591.844,2134.61)">
+            <path d="M127,0.156C127,0.07 126.93,0 126.844,0L0.156,0C0.07,0 0,0.07 0,0.156L0,186.844C0,186.93 0.07,187 0.156,187L126.844,187C126.93,187 127,186.93 127,186.844L127,0.156Z" style="fill:none;stroke:rgb(225,69,61);stroke-width:0.65px;"/>
+        </g>
+        <g transform="matrix(6.42152,0,0,6.42152,591.844,2275.88)">
+            <path d="M102,0.156C102,0.07 101.93,0 101.844,0L0.156,0C0.07,0 0,0.07 0,0.156L0,164.844C0,164.93 0.07,165 0.156,165L101.844,165C101.93,165 102,164.93 102,164.844L102,0.156Z" style="fill:none;stroke:rgb(225,69,61);stroke-width:0.65px;"/>
+        </g>
+        <g transform="matrix(6.42152,0,0,6.42152,591.844,2436.42)">
+            <path d="M90,0.156C90,0.07 89.93,0 89.844,0L0.156,0C0.07,0 0,0.07 0,0.156L0,139.844C0,139.93 0.07,140 0.156,140L89.844,140C89.93,140 90,139.93 90,139.844L90,0.156Z" style="fill:none;stroke:rgb(225,69,61);stroke-width:0.65px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-635.517,698.738)">
+            <text x="1023.98px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">Octavo</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-387.104,698.967)">
+            <text x="1023.98px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">153 mm</text>
+            <text x="1202.27px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:46.702px;fill:rgb(225,69,61);">×</text>
+            <text x="1242.34px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">228 mm</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-635.517,960.653)">
+            <text x="944.186px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">Duodecimo</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-387.104,960.882)">
+            <text x="1023.98px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">127 mm</text>
+            <text x="1202.27px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:46.702px;fill:rgb(225,69,61);">×</text>
+            <text x="1242.57px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">187 mm</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-635.517,1102.19)">
+            <text x="928.878px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">Octodecimo</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-387.104,1102.42)">
+            <text x="1023.98px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">102 mm</text>
+            <text x="1202.27px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:46.702px;fill:rgb(225,69,61);">×</text>
+            <text x="1242.57px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">165 mm</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-636.751,1264.19)">
+            <text x="984.061px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">T<tspan x="1005.33px 1019.76px " y="1247.62px 1247.62px ">ri</tspan>gesimo</text>
+            <text x="1001.07px" y="1294.78px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">secundo</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-388.338,1264.42)">
+            <text x="1023.98px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">90 mm</text>
+            <text x="1176.79px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:46.702px;fill:rgb(225,69,61);">×</text>
+            <text x="1217.09px" y="1247.62px" style="font-family:'HelveticaNeue-Light', 'Helvetica Neue';font-weight:300;font-size:45.833px;fill:rgb(225,69,61);">140 mm</text>
+        </g>
+    </g>
+</svg>
